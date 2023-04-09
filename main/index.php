@@ -30,7 +30,7 @@
                 <input type="email" name="txtFormEmail" placeholder="E-mail" style="color: black;">
                 <br>
                 
-            <form action="/confim/payment1.php" method="POST">
+            <form action="/confim/payment.php" method="POST">
             <div class="card s">
                 <ul class="list-group-flush"><br>
                 <li class="list-group-item"><input name="rdoBank" type="radio" value="กสิกรไทย" onClick="JavaScript:frmMain.hdnBank.value='กสิกรไทย [730-2-44715-7]';">กสิกรไทย [023-1-19265-7]<br></li>
