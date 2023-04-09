@@ -16,7 +16,7 @@
 <body>
     
     
-    <form action="/confim/payment1.php" method="post">
+    <form action="/confim/payment.php" method="post">
         <div div class="head">
             <h2>Disburse</h2>
             <p>ชำระเงินโดยธนาคารข้างต้น <a href="/Banking.php">Mobile Banking</a></p>
